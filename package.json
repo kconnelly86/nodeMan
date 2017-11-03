@@ -1,0 +1,22 @@
+{
+  "name": "nodeman",
+  "version": "1.0.0",
+  "description": "Hang Man in Node Instructions",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kconnelly86/nodeMan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kconnelly86/nodeMan/issues"
+  },
+  "homepage": "https://github.com/kconnelly86/nodeMan#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
